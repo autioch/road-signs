@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="AJAX.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.062"
+     inkscape:cx="250"
+     inkscape:cy="250"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1280"
+     inkscape:window-height="1001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     showgrid="true"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="50px"
+       spacingy="50px"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="5" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>PL - Znak drogowy C13</dc:title>
+        <dc:date>28.07.2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>MaciekS</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Free</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>znak drogowy nakazu</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Znaki drogowe -Polska. Wykonane na podstawie załącznika do Ustawy.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Wikipedia</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://artlibre.org/licence.php/lalgb.html">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3985"
+       transform="translate(-518.7633,0.790102)">
+      <path
+         inkscape:label="tarcza"
+         transform="matrix(1.38605,0,0,1.417411,96.73407,-639.4738)"
+         d="m 663.91965,627.25543 c 0,96.86726 -80.30104,175.39369 -179.35739,175.39369 -99.05636,0 -179.3574,-78.52643 -179.3574,-175.39369 0,-96.86726 80.30104,-175.39369 179.3574,-175.39369 99.05635,0 179.35739,78.52643 179.35739,175.39369 z"
+         sodipodi:ry="175.39369"
+         sodipodi:rx="179.35739"
+         sodipodi:cy="627.25543"
+         sodipodi:cx="484.56226"
+         id="path1341"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#7d7d7d;stroke-width:1.42689705;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.741153,0,0,1.993901,333.573,-237.581)"
+         d="m 390.42439,244.34138 c 0,67.86182 -62.99861,122.87468 -140.71133,122.87468 -77.71273,0 -140.71134,-55.01286 -140.71134,-122.87468 0,-67.86181 62.99861,-122.87467 140.71134,-122.87467 77.71272,0 140.71133,55.01286 140.71133,122.87467 z"
+         sodipodi:ry="122.87468"
+         sodipodi:rx="140.71133"
+         sodipodi:cy="244.34138"
+         sodipodi:cx="249.71306"
+         id="path1343"
+         style="opacity:1;fill:#003399;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g15488">
+      <g
+         transform="matrix(0.5,0,0,0.5,0,-1.17923)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="kolo-przod">
+        <path
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 235.40625,400 C 146.67242,401.12523 75,473.50078 75,562.5 C 75,652.2 147.8,725 237.5,725 C 327.2,725 400,652.2 400,562.5 C 400,472.8 327.2,400 237.5,400 C 236.79922,400 236.10494,399.99114 235.40625,400 z M 235.71875,425 C 236.30995,424.9925 236.90703,425 237.5,425 C 313.4,425 375,486.6 375,562.5 C 375,638.4 313.4,700 237.5,700 C 161.6,700 100,638.4 100,562.5 C 100,487.19297 160.63628,425.95212 235.71875,425 z "
+           id="opona" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="piasta"
+           sodipodi:cx="237.5"
+           sodipodi:cy="562.5"
+           sodipodi:rx="25"
+           sodipodi:ry="25"
+           d="m 262.5,562.5 c 0,13.80712 -11.19288,25 -25,25 -13.80712,0 -25,-11.19288 -25,-25 0,-13.80712 11.19288,-25 25,-25 13.80712,0 25,11.19288 25,25 z" />
+      </g>
+      <g
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(0.5,0,0,0.5,262.5,-1.17923)"
+         id="kolo-tyl">
+        <path
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 235.40625,400 C 146.67242,401.12523 75,473.50078 75,562.5 C 75,652.2 147.8,725 237.5,725 C 327.2,725 400,652.2 400,562.5 C 400,472.8 327.2,400 237.5,400 C 236.79922,400 236.10494,399.99114 235.40625,400 z M 235.71875,425 C 236.30995,424.9925 236.90703,425 237.5,425 C 313.4,425 375,486.6 375,562.5 C 375,638.4 313.4,700 237.5,700 C 161.6,700 100,638.4 100,562.5 C 100,487.19297 160.63628,425.95212 235.71875,425 z "
+           id="path1324" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1326"
+           sodipodi:cx="237.5"
+           sodipodi:cy="562.5"
+           sodipodi:rx="25"
+           sodipodi:ry="25"
+           d="m 262.5,562.5 c 0,13.80712 -11.19288,25 -25,25 -13.80712,0 -25,-11.19288 -25,-25 0,-13.80712 11.19288,-25 25,-25 13.80712,0 25,11.19288 25,25 z" />
+      </g>
+      <path
+         id="wzdlozlancucha"
+         d="M 268.75,280.07077 L 381.25,280.07077"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:12.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="slupek-siodelko"
+         d="M 268.75,280.07077 L 318.75,123.82077"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:12.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="poprzeczka"
+         d="M 150,155.07077 L 305,155.07077 L 381.25,280.07077"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:12.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssc"
+         id="kierownica"
+         d="M 118.75,280.07077 C 118.75,280.07077 164.18762,120.8601 165,118.82077 C 168.44421,110.17467 169.58543,107.25077 180,105.07077 C 181.52135,104.75231 200,105.07077 200,105.07077"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:12.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         transform="matrix(0.5,0,0,0.5,0,-1.17923)"
+         d="M 587.5 562.5 A 50 50 0 1 1  487.5,562.5 A 50 50 0 1 1  587.5 562.5 z"
+         sodipodi:ry="50"
+         sodipodi:rx="50"
+         sodipodi:cy="562.5"
+         sodipodi:cx="537.5"
+         id="kolo=pedalowe"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccczsc"
+         id="siodelko"
+         d="M 312.5,136.32077 L 350,136.32077 L 350,111.32077 C 350,111.32077 275.13901,110.62419 268.75,111.32077 C 262.82046,111.96725 265.08435,122.74117 268.75,123.82077 C 331.16528,142.20323 312.5,136.32077 312.5,136.32077 z "
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="ukos-damka"
+         d="M 268.75,280.07077 L 148,178.82077"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:12.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

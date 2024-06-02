@@ -1,0 +1,2984 @@
+[
+  {
+    "id": "A-1",
+    "label": "„niebezpieczny zakręt w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-1.svg",
+    "img": "./signs/images/A-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b3/PL_road_sign_A-1.svg"
+  },
+  {
+    "id": "A-2",
+    "label": "„niebezpieczny zakręt w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-2.svg",
+    "img": "./signs/images/A-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6b/PL_road_sign_A-2.svg"
+  },
+  {
+    "id": "A-3",
+    "label": "„niebezpieczne zakręty — pierwszy w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-3.svg",
+    "img": "./signs/images/A-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/ff/PL_road_sign_A-3.svg"
+  },
+  {
+    "id": "A-4",
+    "label": "„niebezpieczne zakręty — pierwszy w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-4.svg",
+    "img": "./signs/images/A-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/29/PL_road_sign_A-4.svg"
+  },
+  {
+    "id": "A-5",
+    "label": "„skrzyżowanie dróg — skrzyżowanie równorzędne”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-5.svg",
+    "img": "./signs/images/A-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/02/PL_road_sign_A-5.svg"
+  },
+  {
+    "id": "A-6a",
+    "label": "„skrzyżowanie z drogą podporządkowaną występującą po obu stronach”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-6a.svg",
+    "img": "./signs/images/A-6a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e4/PL_road_sign_A-6a.svg"
+  },
+  {
+    "id": "A-6b",
+    "label": "„skrzyżowanie z drogą podporządkowaną występującą po prawej stronie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-6b.svg",
+    "img": "./signs/images/A-6b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/96/PL_road_sign_A-6b.svg"
+  },
+  {
+    "id": "A-6c",
+    "label": "„skrzyżowanie z drogą podporządkowaną występującą po lewej stronie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-6c.svg",
+    "img": "./signs/images/A-6c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6e/PL_road_sign_A-6c.svg"
+  },
+  {
+    "id": "A-6d",
+    "label": "„wlot drogi jednokierunkowej z prawej strony”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-6d.svg",
+    "img": "./signs/images/A-6d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6f/PL_road_sign_A-6d.svg"
+  },
+  {
+    "id": "A-6e",
+    "label": "„wlot drogi jednokierunkowej z lewej strony”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-6e.svg",
+    "img": "./signs/images/A-6e.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/70/PL_road_sign_A-6e.svg"
+  },
+  {
+    "id": "A-7",
+    "label": "„ustąp pierwszeństwa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-7.svg",
+    "img": "./signs/images/A-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/74/PL_road_sign_A-7.svg"
+  },
+  {
+    "id": "A-8",
+    "label": "„skrzyżowanie o ruchu okrężnym”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-8.svg",
+    "img": "./signs/images/A-8.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6a/PL_road_sign_A-8.svg"
+  },
+  {
+    "id": "A-9",
+    "label": "„przejazd kolejowo-drogowy z zaporami”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-9.svg",
+    "img": "./signs/images/A-9.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e5/PL_road_sign_A-9.svg"
+  },
+  {
+    "id": "A-10",
+    "label": "„przejazd kolejowo-drogowy bez zapór”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-10.svg",
+    "img": "./signs/images/A-10.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d1/PL_road_sign_A-10.svg"
+  },
+  {
+    "id": "A-11",
+    "label": "„nierówna droga”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-11.svg",
+    "img": "./signs/images/A-11.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b9/PL_road_sign_A-11.svg"
+  },
+  {
+    "id": "A-11a",
+    "label": "„próg zwalniający”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-11a.svg",
+    "img": "./signs/images/A-11a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/98/PL_road_sign_A-11a.svg"
+  },
+  {
+    "id": "A-12a",
+    "label": "„zwężenie jezdni — dwustronne”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-12a.svg",
+    "img": "./signs/images/A-12a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/fe/PL_road_sign_A-12a.svg"
+  },
+  {
+    "id": "A-12b",
+    "label": "„zwężenie jezdni — prawostronne”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-12b.svg",
+    "img": "./signs/images/A-12b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/21/PL_road_sign_A-12b.svg"
+  },
+  {
+    "id": "A-12c",
+    "label": "„zwężenie jezdni — lewostronne”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-12c.svg",
+    "img": "./signs/images/A-12c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/75/PL_road_sign_A-12c.svg"
+  },
+  {
+    "id": "A-13",
+    "label": "„ruchomy most”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-13.svg",
+    "img": "./signs/images/A-13.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/33/PL_road_sign_A-13.svg"
+  },
+  {
+    "id": "A-14",
+    "label": "„roboty na drodze”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-14.svg",
+    "img": "./signs/images/A-14.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/cd/PL_road_sign_A-14.svg"
+  },
+  {
+    "id": "A-15",
+    "label": "„śliska jezdnia”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-15.svg",
+    "img": "./signs/images/A-15.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/eb/PL_road_sign_A-15.svg"
+  },
+  {
+    "id": "A-16",
+    "label": "„przejście dla pieszych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-16.svg",
+    "img": "./signs/images/A-16.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/88/PL_road_sign_A-16.svg"
+  },
+  {
+    "id": "A-17",
+    "label": "„dzieci”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-17.svg",
+    "img": "./signs/images/A-17.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6e/PL_road_sign_A-17.svg"
+  },
+  {
+    "id": "A-18a",
+    "label": "„zwierzęta gospodarskie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-18a.svg",
+    "img": "./signs/images/A-18a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c3/PL_road_sign_A-18a.svg"
+  },
+  {
+    "id": "A-18b",
+    "label": "„zwierzęta dzikie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-18b.svg",
+    "img": "./signs/images/A-18b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0f/PL_road_sign_A-18b.svg"
+  },
+  {
+    "id": "A-19",
+    "label": "„boczny wiatr”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-19.svg",
+    "img": "./signs/images/A-19.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/46/PL_road_sign_A-19.svg"
+  },
+  {
+    "id": "A-20",
+    "label": "„odcinek jezdni o ruchu dwukierunkowym”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-20.svg",
+    "img": "./signs/images/A-20.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/de/PL_road_sign_A-20.svg"
+  },
+  {
+    "id": "A-21",
+    "label": "„tramwaj”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-21.svg",
+    "img": "./signs/images/A-21.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/dd/PL_road_sign_A-21.svg"
+  },
+  {
+    "id": "A-22",
+    "label": "„niebezpieczny zjazd”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-22.svg",
+    "img": "./signs/images/A-22.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f3/PL_road_sign_A-22.svg"
+  },
+  {
+    "id": "A-23",
+    "label": "„stromy podjazd”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-23.svg",
+    "img": "./signs/images/A-23.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c2/PL_road_sign_A-23.svg"
+  },
+  {
+    "id": "A-24",
+    "label": "„rowerzyści”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-24.svg",
+    "img": "./signs/images/A-24.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8e/PL_road_sign_A-24.svg"
+  },
+  {
+    "id": "A-25",
+    "label": "„spadające odłamki skalne”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-25.svg",
+    "img": "./signs/images/A-25.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6a/PL_road_sign_A-25.svg"
+  },
+  {
+    "id": "A-26",
+    "label": "„lotnisko”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-26.svg",
+    "img": "./signs/images/A-26.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/4b/PL_road_sign_A-26.svg"
+  },
+  {
+    "id": "A-27",
+    "label": "„nabrzeże lub brzeg rzeki”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-27.svg",
+    "img": "./signs/images/A-27.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/5a/PL_road_sign_A-27.svg"
+  },
+  {
+    "id": "A-28",
+    "label": "„sypki żwir”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-28.svg",
+    "img": "./signs/images/A-28.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6a/PL_road_sign_A-28.svg"
+  },
+  {
+    "id": "A-29",
+    "label": "„sygnały świetlne”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-29.svg",
+    "img": "./signs/images/A-29.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f4/PL_road_sign_A-29.svg"
+  },
+  {
+    "id": "A-30",
+    "label": "„inne niebezpieczeństwo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-30.svg",
+    "img": "./signs/images/A-30.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e5/PL_road_sign_A-30.svg"
+  },
+  {
+    "id": "A-31",
+    "label": "„niebezpieczne pobocze”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-31.svg",
+    "img": "./signs/images/A-31.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ac/PL_road_sign_A-31.svg"
+  },
+  {
+    "id": "A-31",
+    "label": "„niebezpieczne pobocze” (wariant)",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_A-31_lewa.svg",
+    "img": "./signs/images/A-31.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/40/Znak_A-31_lewa.svg"
+  },
+  {
+    "id": "A-32",
+    "label": "„oszronienie jezdni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-32.svg",
+    "img": "./signs/images/A-32.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/13/PL_road_sign_A-32.svg"
+  },
+  {
+    "id": "A-33",
+    "label": "„zator drogowy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-33.svg",
+    "img": "./signs/images/A-33.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ad/PL_road_sign_A-33.svg"
+  },
+  {
+    "id": "A-34",
+    "label": "„wypadek drogowy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_A-34.svg",
+    "img": "./signs/images/A-34.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/71/PL_road_sign_A-34.svg"
+  },
+  {
+    "id": "B-1",
+    "label": "„zakaz ruchu w obu kierunkach”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-1.svg",
+    "img": "./signs/images/B-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/af/PL_road_sign_B-1.svg"
+  },
+  {
+    "id": "B-2",
+    "label": "„zakaz wjazdu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-2.svg",
+    "img": "./signs/images/B-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/10/PL_road_sign_B-2.svg"
+  },
+  {
+    "id": "B-3",
+    "label": "„zakaz wjazdu pojazdów silnikowych z wyjątkiem motocykli jednośladowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-3.svg",
+    "img": "./signs/images/B-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/ba/PL_road_sign_B-3.svg"
+  },
+  {
+    "id": "B-3a",
+    "label": "„zakaz wjazdu autobusów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-3a.svg",
+    "img": "./signs/images/B-3a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/29/PL_road_sign_B-3a.svg"
+  },
+  {
+    "id": "B-4",
+    "label": "„zakaz wjazdu motocykli”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-4.svg",
+    "img": "./signs/images/B-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/fe/PL_road_sign_B-4.svg"
+  },
+  {
+    "id": "B-5",
+    "label": "„zakaz wjazdu samochodów ciężarowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-5.svg",
+    "img": "./signs/images/B-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0d/PL_road_sign_B-5.svg"
+  },
+  {
+    "id": "B-5",
+    "label": "„zakaz wjazdu samochodów ciężarowych” (odmiana)",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-5-6t.svg",
+    "img": "./signs/images/B-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c9/PL_road_sign_B-5-6t.svg"
+  },
+  {
+    "id": "B-6",
+    "label": "„zakaz wjazdu ciągników rolniczych i pojazdów wolnobieżnych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-6.svg",
+    "img": "./signs/images/B-6.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/af/PL_road_sign_B-6.svg"
+  },
+  {
+    "id": "B-7",
+    "label": "„zakaz wjazdu pojazdów silnikowych z przyczepą”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-7.svg",
+    "img": "./signs/images/B-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/45/PL_road_sign_B-7.svg"
+  },
+  {
+    "id": "B-7",
+    "label": "„zakaz wjazdu pojazdów silnikowych z przyczepą” (odmiana)",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-7-5t.svg",
+    "img": "./signs/images/B-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/bb/PL_road_sign_B-7-5t.svg"
+  },
+  {
+    "id": "B-8",
+    "label": "„zakaz wjazdu pojazdów zaprzęgowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-8.svg",
+    "img": "./signs/images/B-8.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0e/PL_road_sign_B-8.svg"
+  },
+  {
+    "id": "B-9",
+    "label": "„zakaz wjazdu rowerów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-9.svg",
+    "img": "./signs/images/B-9.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/89/PL_road_sign_B-9.svg"
+  },
+  {
+    "id": "B-10",
+    "label": "„zakaz wjazdu motorowerów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-10.svg",
+    "img": "./signs/images/B-10.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/dd/PL_road_sign_B-10.svg"
+  },
+  {
+    "id": "B-11",
+    "label": "„zakaz wjazdu wózków rowerowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-11.svg",
+    "img": "./signs/images/B-11.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/01/PL_road_sign_B-11.svg"
+  },
+  {
+    "id": "B-12",
+    "label": "„zakaz wjazdu wózków ręcznych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-12.svg",
+    "img": "./signs/images/B-12.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/71/PL_road_sign_B-12.svg"
+  },
+  {
+    "id": "B-13",
+    "label": "„zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-13.svg",
+    "img": "./signs/images/B-13.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b9/PL_road_sign_B-13.svg"
+  },
+  {
+    "id": "B-13a",
+    "label": "„zakaz wjazdu pojazdów z towarami niebezpiecznymi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-13a.svg",
+    "img": "./signs/images/B-13a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/56/PL_road_sign_B-13a.svg"
+  },
+  {
+    "id": "B-14",
+    "label": "„zakaz wjazdu pojazdów z towarami, które mogą skazić wodę”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-14.svg",
+    "img": "./signs/images/B-14.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b1/PL_road_sign_B-14.svg"
+  },
+  {
+    "id": "B-15",
+    "label": "„zakaz wjazdu pojazdów o szerokości ponad …m”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-15-2.0m.svg",
+    "img": "./signs/images/B-15.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b5/PL_road_sign_B-15-2.0m.svg"
+  },
+  {
+    "id": "B-16",
+    "label": "„zakaz wjazdu pojazdów o wysokości ponad …m”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-16-3.5m.svg",
+    "img": "./signs/images/B-16.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a0/PL_road_sign_B-16-3.5m.svg"
+  },
+  {
+    "id": "B-17",
+    "label": "„zakaz wjazdu pojazdów o długości ponad …m”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-17-6m.svg",
+    "img": "./signs/images/B-17.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/36/PL_road_sign_B-17-6m.svg"
+  },
+  {
+    "id": "B-18",
+    "label": "„zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad …t”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-18-7t.svg",
+    "img": "./signs/images/B-18.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/16/PL_road_sign_B-18-7t.svg"
+  },
+  {
+    "id": "B-19",
+    "label": "„zakaz wjazdu pojazdów o nacisku pojedynczej osi napędowej powyżej …t”[5]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-19-10t.svg",
+    "img": "./signs/images/B-19.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8b/PL_road_sign_B-19-10t.svg"
+  },
+  {
+    "id": "B-20",
+    "label": "„stop”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-20.svg",
+    "img": "./signs/images/B-20.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/77/PL_road_sign_B-20.svg"
+  },
+  {
+    "id": "B-21",
+    "label": "„zakaz skręcania w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-21.svg",
+    "img": "./signs/images/B-21.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/79/PL_road_sign_B-21.svg"
+  },
+  {
+    "id": "B-22",
+    "label": "„zakaz skręcania w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-22.svg",
+    "img": "./signs/images/B-22.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/fc/PL_road_sign_B-22.svg"
+  },
+  {
+    "id": "B-23",
+    "label": "„zakaz zawracania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-23.svg",
+    "img": "./signs/images/B-23.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/99/PL_road_sign_B-23.svg"
+  },
+  {
+    "id": "B-24",
+    "label": "„koniec zakazu zawracania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-24.svg",
+    "img": "./signs/images/B-24.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6e/PL_road_sign_B-24.svg"
+  },
+  {
+    "id": "B-25",
+    "label": "„zakaz wyprzedzania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-25.svg",
+    "img": "./signs/images/B-25.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ae/PL_road_sign_B-25.svg"
+  },
+  {
+    "id": "B-26",
+    "label": "„zakaz wyprzedzania przez samochody ciężarowe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-26.svg",
+    "img": "./signs/images/B-26.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/43/PL_road_sign_B-26.svg"
+  },
+  {
+    "id": "B-27",
+    "label": "„koniec zakazu wyprzedzania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-27.svg",
+    "img": "./signs/images/B-27.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/15/PL_road_sign_B-27.svg"
+  },
+  {
+    "id": "B-28",
+    "label": "„koniec zakazu wyprzedzania przez samochody ciężarowe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-28.svg",
+    "img": "./signs/images/B-28.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ed/PL_road_sign_B-28.svg"
+  },
+  {
+    "id": "B-29",
+    "label": "„zakaz używania sygnałów dźwiękowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-29.svg",
+    "img": "./signs/images/B-29.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/5e/PL_road_sign_B-29.svg"
+  },
+  {
+    "id": "B-30",
+    "label": "„koniec zakazu używania sygnałów dźwiękowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-30.svg",
+    "img": "./signs/images/B-30.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/1a/PL_road_sign_B-30.svg"
+  },
+  {
+    "id": "B-31",
+    "label": "„pierwszeństwo dla nadjeżdżających z przeciwka”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-31.svg",
+    "img": "./signs/images/B-31.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/7c/PL_road_sign_B-31.svg"
+  },
+  {
+    "id": "B-32",
+    "label": "„stój — kontrola celna”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-32.svg",
+    "img": "./signs/images/B-32.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/23/PL_road_sign_B-32.svg"
+  },
+  {
+    "id": "B-32a",
+    "label": "„kontrola graniczna”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-32a.svg",
+    "img": "./signs/images/B-32a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/13/PL_road_sign_B-32a.svg"
+  },
+  {
+    "id": "B-32b",
+    "label": "„rogatka uszkodzona”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-32b.svg",
+    "img": "./signs/images/B-32b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/12/PL_road_sign_B-32b.svg"
+  },
+  {
+    "id": "B-32c",
+    "label": "„sygnalizacja uszkodzona”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-32c.svg",
+    "img": "./signs/images/B-32c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/af/PL_road_sign_B-32c.svg"
+  },
+  {
+    "id": "B-32d",
+    "label": "„wjazd na prom”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-32d.svg",
+    "img": "./signs/images/B-32d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/fa/PL_road_sign_B-32d.svg"
+  },
+  {
+    "id": "B-32e",
+    "label": "„kontrola drogowa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-32e.svg",
+    "img": "./signs/images/B-32e.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/5e/PL_road_sign_B-32e.svg"
+  },
+  {
+    "id": "B-32f",
+    "label": "„pobór opłat”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-32f.svg",
+    "img": "./signs/images/B-32f.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/19/PL_road_sign_B-32f.svg"
+  },
+  {
+    "id": "B-33",
+    "label": "„ograniczenie prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-33-50.svg",
+    "img": "./signs/images/B-33.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/52/PL_road_sign_B-33-50.svg"
+  },
+  {
+    "id": "B-34",
+    "label": "„koniec ograniczenia prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-34-50.svg",
+    "img": "./signs/images/B-34.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ea/PL_road_sign_B-34-50.svg"
+  },
+  {
+    "id": "B-35",
+    "label": "„zakaz postoju”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-35.svg",
+    "img": "./signs/images/B-35.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c2/PL_road_sign_B-35.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-35a.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6d/PL_road_sign_B-35a.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-35b.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e3/PL_road_sign_B-35b.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-35c.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/11/PL_road_sign_B-35c.svg"
+  },
+  {
+    "id": "B-36",
+    "label": "„zakaz zatrzymywania się”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-36.svg",
+    "img": "./signs/images/B-36.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/38/PL_road_sign_B-36.svg"
+  },
+  {
+    "id": "B-37",
+    "label": "„zakaz postoju w dni nieparzyste”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-37.svg",
+    "img": "./signs/images/B-37.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2f/PL_road_sign_B-37.svg"
+  },
+  {
+    "id": "B-38",
+    "label": "„zakaz postoju w dni parzyste”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-38.svg",
+    "img": "./signs/images/B-38.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b2/PL_road_sign_B-38.svg"
+  },
+  {
+    "id": "B-39",
+    "label": "„strefa ograniczonego postoju”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-39.svg",
+    "img": "./signs/images/B-39.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/fc/PL_road_sign_B-39.svg"
+  },
+  {
+    "id": "B-40",
+    "label": "„koniec strefy ograniczonego postoju”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-40.svg",
+    "img": "./signs/images/B-40.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/5e/PL_road_sign_B-40.svg"
+  },
+  {
+    "id": "B-41",
+    "label": "„zakaz ruchu pieszych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-41.svg",
+    "img": "./signs/images/B-41.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2d/PL_road_sign_B-41.svg"
+  },
+  {
+    "id": "B-42",
+    "label": "„koniec zakazów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-42.svg",
+    "img": "./signs/images/B-42.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2a/PL_road_sign_B-42.svg"
+  },
+  {
+    "id": "B-43",
+    "label": "„strefa ograniczonej prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-43-30.svg",
+    "img": "./signs/images/B-43.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c6/PL_road_sign_B-43-30.svg"
+  },
+  {
+    "id": "B-44",
+    "label": "„koniec strefy ograniczonej prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-44-30.svg",
+    "img": "./signs/images/B-44.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/28/PL_road_sign_B-44-30.svg"
+  },
+  {
+    "id": "B-3_4",
+    "label": "„zakaz wjazdu pojazdów silnikowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-3-4.svg",
+    "img": "./signs/images/B-3_4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/79/PL_road_sign_B-3-4.svg"
+  },
+  {
+    "id": "B-6_8",
+    "label": "„zakaz wjazdu ciągników rolniczych i pojazdów zaprzęgowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-6-8.svg",
+    "img": "./signs/images/B-6_8.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/7b/PL_road_sign_B-6-8.svg"
+  },
+  {
+    "id": "B-9_12",
+    "label": "„zakaz wjazdu rowerów i wózków ręcznych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-9-12.svg",
+    "img": "./signs/images/B-9_12.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d9/PL_road_sign_B-9-12.svg"
+  },
+  {
+    "id": "B-13_14",
+    "label": "„zakaz wjazdu pojazdów z towarami wybuchowymi lub łatwo zapalnymi oraz towarami mogącymi\n skazić wodę”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-13-14.svg",
+    "img": "./signs/images/B-13_14.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/78/PL_road_sign_B-13-14.svg"
+  },
+  {
+    "id": "B-3_4_10",
+    "label": "„zakaz wjazdu pojazdów silnikowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-3-4-10.svg",
+    "img": "./signs/images/B-3_4_10.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/27/PL_road_sign_B-3-4-10.svg"
+  },
+  {
+    "id": "B-6_8_9",
+    "label": "„zakaz wjazdu pojazdów innych niż samochodowe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_B-6-8-9.svg",
+    "img": "./signs/images/B-6_8_9.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/dc/PL_road_sign_B-6-8-9.svg"
+  },
+  {
+    "id": "C-1",
+    "label": "„nakaz jazdy w prawo przed znakiem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-1.svg",
+    "img": "./signs/images/C-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/37/PL_road_sign_C-1.svg"
+  },
+  {
+    "id": "C-2",
+    "label": "„nakaz jazdy w prawo za znakiem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-2.svg",
+    "img": "./signs/images/C-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/73/PL_road_sign_C-2.svg"
+  },
+  {
+    "id": "C-3",
+    "label": "„nakaz jazdy w lewo przed znakiem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-3.svg",
+    "img": "./signs/images/C-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/5f/PL_road_sign_C-3.svg"
+  },
+  {
+    "id": "C-4",
+    "label": "„nakaz jazdy w lewo za znakiem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-4.svg",
+    "img": "./signs/images/C-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/bc/PL_road_sign_C-4.svg"
+  },
+  {
+    "id": "C-5",
+    "label": "„nakaz jazdy prosto”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-5.svg",
+    "img": "./signs/images/C-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/4b/PL_road_sign_C-5.svg"
+  },
+  {
+    "id": "C-6",
+    "label": "„nakaz jazdy prosto lub w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-6.svg",
+    "img": "./signs/images/C-6.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/58/PL_road_sign_C-6.svg"
+  },
+  {
+    "id": "C-7",
+    "label": "„nakaz jazdy prosto lub w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-7.svg",
+    "img": "./signs/images/C-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/47/PL_road_sign_C-7.svg"
+  },
+  {
+    "id": "C-8",
+    "label": "„nakaz jazdy w prawo lub w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-8.svg",
+    "img": "./signs/images/C-8.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/3b/PL_road_sign_C-8.svg"
+  },
+  {
+    "id": "C-9",
+    "label": "„nakaz jazdy z prawej strony znaku”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-9.svg",
+    "img": "./signs/images/C-9.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/cb/PL_road_sign_C-9.svg"
+  },
+  {
+    "id": "C-10",
+    "label": "„nakaz jazdy z lewej strony znaku”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-10.svg",
+    "img": "./signs/images/C-10.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/02/PL_road_sign_C-10.svg"
+  },
+  {
+    "id": "C-11",
+    "label": "„nakaz jazdy z prawej lub lewej strony znaku”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-11.svg",
+    "img": "./signs/images/C-11.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a7/PL_road_sign_C-11.svg"
+  },
+  {
+    "id": "C-12",
+    "label": "„ruch okrężny”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-12.svg",
+    "img": "./signs/images/C-12.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/4e/PL_road_sign_C-12.svg"
+  },
+  {
+    "id": "C-13",
+    "label": "„droga dla rowerów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-13.svg",
+    "img": "./signs/images/C-13.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/30/PL_road_sign_C-13.svg"
+  },
+  {
+    "id": "C-13a",
+    "label": "„koniec drogi dla rowerów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-13a.svg",
+    "img": "./signs/images/C-13a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/14/PL_road_sign_C-13a.svg"
+  },
+  {
+    "id": "C-14",
+    "label": "„prędkość minimalna”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-14-30.svg",
+    "img": "./signs/images/C-14.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/46/PL_road_sign_C-14-30.svg"
+  },
+  {
+    "id": "C-15",
+    "label": "„koniec minimalnej prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-15-30.svg",
+    "img": "./signs/images/C-15.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0c/PL_road_sign_C-15-30.svg"
+  },
+  {
+    "id": "C-16",
+    "label": "„droga dla pieszych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-16.svg",
+    "img": "./signs/images/C-16.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/26/PL_road_sign_C-16.svg"
+  },
+  {
+    "id": "C-16a",
+    "label": "„koniec drogi dla pieszych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-16a.svg",
+    "img": "./signs/images/C-16a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c2/PL_road_sign_C-16a.svg"
+  },
+  {
+    "id": "C-17__",
+    "label": "nakazany kierunek jazdy dla pojazdów z towarami niebezpiecznymi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-17-2.svg",
+    "img": "./signs/images/C-17__.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b0/PL_road_sign_C-17-2.svg"
+  },
+  {
+    "id": "C-18",
+    "label": "„nakaz używania łańcuchów przeciwpoślizgowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-18.svg",
+    "img": "./signs/images/C-18.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d5/PL_road_sign_C-18.svg"
+  },
+  {
+    "id": "C-19",
+    "label": "„koniec nakazu używania łańcuchów przeciwpoślizgowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_C-19.svg",
+    "img": "./signs/images/C-19.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/13/PL_road_sign_C-19.svg"
+  },
+  {
+    "id": "D-1",
+    "label": "„droga z pierwszeństwem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-1.svg",
+    "img": "./signs/images/D-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d4/PL_road_sign_D-1.svg"
+  },
+  {
+    "id": "D-2",
+    "label": "„koniec drogi z pierwszeństwem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-2.svg",
+    "img": "./signs/images/D-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/1f/PL_road_sign_D-2.svg"
+  },
+  {
+    "id": "D-3",
+    "label": "„droga jednokierunkowa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-3.svg",
+    "img": "./signs/images/D-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/64/PL_road_sign_D-3.svg"
+  },
+  {
+    "id": "D-4a",
+    "label": "„droga bez przejazdu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-4a.svg",
+    "img": "./signs/images/D-4a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/eb/PL_road_sign_D-4a.svg"
+  },
+  {
+    "id": "D-4b",
+    "label": "„wjazd na drogę bez przejazdu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-4b.svg",
+    "img": "./signs/images/D-4b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/af/PL_road_sign_D-4b.svg"
+  },
+  {
+    "id": "D-4c",
+    "label": "„wjazd na drogę bez przejazdu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-4c.svg",
+    "img": "./signs/images/D-4c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a7/PL_road_sign_D-4c.svg"
+  },
+  {
+    "id": "D-5",
+    "label": "„pierwszeństwo na zwężonym odcinku drogi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-5.svg",
+    "img": "./signs/images/D-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/45/PL_road_sign_D-5.svg"
+  },
+  {
+    "id": "D-6",
+    "label": "„przejście dla pieszych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-6.svg",
+    "img": "./signs/images/D-6.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f3/PL_road_sign_D-6.svg"
+  },
+  {
+    "id": "D-6a",
+    "label": "„przejazd dla rowerzystów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-6a.svg",
+    "img": "./signs/images/D-6a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/5a/PL_road_sign_D-6a.svg"
+  },
+  {
+    "id": "D-6b",
+    "label": "„przejście dla pieszych i przejazd dla rowerzystów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-6b.svg",
+    "img": "./signs/images/D-6b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ae/PL_road_sign_D-6b.svg"
+  },
+  {
+    "id": "D-7",
+    "label": "„droga ekspresowa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-7.svg",
+    "img": "./signs/images/D-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d7/PL_road_sign_D-7.svg"
+  },
+  {
+    "id": "D-8",
+    "label": "„koniec drogi ekspresowej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-8.svg",
+    "img": "./signs/images/D-8.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/72/PL_road_sign_D-8.svg"
+  },
+  {
+    "id": "D-9",
+    "label": "„autostrada”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-9.svg",
+    "img": "./signs/images/D-9.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b2/PL_road_sign_D-9.svg"
+  },
+  {
+    "id": "D-10",
+    "label": "„koniec autostrady”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-10.svg",
+    "img": "./signs/images/D-10.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a2/PL_road_sign_D-10.svg"
+  },
+  {
+    "id": "D-11",
+    "label": "„początek pasa ruchu dla autobusów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-11.svg",
+    "img": "./signs/images/D-11.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/28/PL_road_sign_D-11.svg"
+  },
+  {
+    "id": "D-12",
+    "label": "„pas ruchu dla autobusów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-12.svg",
+    "img": "./signs/images/D-12.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/74/PL_road_sign_D-12.svg"
+  },
+  {
+    "id": "D-13",
+    "label": "„początek pasa ruchu powolnego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-13.svg",
+    "img": "./signs/images/D-13.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/21/PL_road_sign_D-13.svg"
+  },
+  {
+    "id": "D-13a",
+    "label": "„początek pasa ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-13a.svg",
+    "img": "./signs/images/D-13a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/02/PL_road_sign_D-13a.svg"
+  },
+  {
+    "id": "D-14",
+    "label": "„koniec pasa ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-14.svg",
+    "img": "./signs/images/D-14.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/50/PL_road_sign_D-14.svg"
+  },
+  {
+    "id": "D-15",
+    "label": "„przystanek autobusowy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-15.svg",
+    "img": "./signs/images/D-15.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f3/PL_road_sign_D-15.svg"
+  },
+  {
+    "id": "D-16",
+    "label": "„przystanek trolejbusowy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-16.svg",
+    "img": "./signs/images/D-16.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/30/PL_road_sign_D-16.svg"
+  },
+  {
+    "id": "D-17",
+    "label": "„przystanek tramwajowy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-17.svg",
+    "img": "./signs/images/D-17.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/63/PL_road_sign_D-17.svg"
+  },
+  {
+    "id": "D-18",
+    "label": "„parking”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-18.svg",
+    "img": "./signs/images/D-18.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f8/PL_road_sign_D-18.svg"
+  },
+  {
+    "id": "D-18a",
+    "label": "„parking – miejsce zastrzeżone”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-18a.svg",
+    "img": "./signs/images/D-18a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d5/PL_road_sign_D-18a.svg"
+  },
+  {
+    "id": "D-18b",
+    "label": "„parking zadaszony”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-18b.svg",
+    "img": "./signs/images/D-18b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/4a/PL_road_sign_D-18b.svg"
+  },
+  {
+    "id": "D-19",
+    "label": "„postój taksówek”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-19.svg",
+    "img": "./signs/images/D-19.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6a/PL_road_sign_D-19.svg"
+  },
+  {
+    "id": "D-20",
+    "label": "„koniec postoju taksówek”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-20.svg",
+    "img": "./signs/images/D-20.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/62/PL_road_sign_D-20.svg"
+  },
+  {
+    "id": "D-21",
+    "label": "„szpital”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-21.svg",
+    "img": "./signs/images/D-21.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/47/PL_road_sign_D-21.svg"
+  },
+  {
+    "id": "D-21a",
+    "label": "„policja”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-21a.svg",
+    "img": "./signs/images/D-21a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/38/PL_road_sign_D-21a.svg"
+  },
+  {
+    "id": "D-22",
+    "label": "„punkt opatrunkowy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-22.svg",
+    "img": "./signs/images/D-22.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/73/PL_road_sign_D-22.svg"
+  },
+  {
+    "id": "D-23",
+    "label": "„stacja paliwowa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-23.svg",
+    "img": "./signs/images/D-23.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0c/PL_road_sign_D-23.svg"
+  },
+  {
+    "id": "D-23a",
+    "label": "„stacja paliwowa tylko z gazem do napędu pojazdów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-23a.svg",
+    "img": "./signs/images/D-23a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/17/PL_road_sign_D-23a.svg"
+  },
+  {
+    "id": "D-23b",
+    "label": "„stacja paliwowa z punktem ładowania pojazdów elektrycznych”[8]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-23b.svg",
+    "img": "./signs/images/D-23b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/4b/PL_road_sign_D-23b.svg"
+  },
+  {
+    "id": "D-23c",
+    "label": "„punkt ładowania pojazdów elektrycznych”[8]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-23c.svg",
+    "img": "./signs/images/D-23c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/18/PL_road_sign_D-23c.svg"
+  },
+  {
+    "id": "D-24",
+    "label": "„telefon”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-24.svg",
+    "img": "./signs/images/D-24.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/46/PL_road_sign_D-24.svg"
+  },
+  {
+    "id": "D-25",
+    "label": "„poczta”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-25.svg",
+    "img": "./signs/images/D-25.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ac/PL_road_sign_D-25.svg"
+  },
+  {
+    "id": "D-26",
+    "label": "„stacja obsługi technicznej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-26.svg",
+    "img": "./signs/images/D-26.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/ff/PL_road_sign_D-26.svg"
+  },
+  {
+    "id": "D-26a",
+    "label": "„wulkanizacja”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-26a.svg",
+    "img": "./signs/images/D-26a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/05/PL_road_sign_D-26a.svg"
+  },
+  {
+    "id": "D-27",
+    "label": "„bufet lub kawiarnia”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-27.svg",
+    "img": "./signs/images/D-27.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b8/PL_road_sign_D-27.svg"
+  },
+  {
+    "id": "D-28",
+    "label": "„restauracja”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-28.svg",
+    "img": "./signs/images/D-28.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/df/PL_road_sign_D-28.svg"
+  },
+  {
+    "id": "D-29",
+    "label": "„hotel (motel)”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-29.svg",
+    "img": "./signs/images/D-29.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/76/PL_road_sign_D-29.svg"
+  },
+  {
+    "id": "D-30",
+    "label": "„obozowisko (kemping)”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-30.svg",
+    "img": "./signs/images/D-30.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/9a/PL_road_sign_D-30.svg"
+  },
+  {
+    "id": "D-31",
+    "label": "„obozowisko (kemping) wyposażone w podłączenia elektryczne do przyczep”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-31.svg",
+    "img": "./signs/images/D-31.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e2/PL_road_sign_D-31.svg"
+  },
+  {
+    "id": "D-32",
+    "label": "„pole biwakowe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-32.svg",
+    "img": "./signs/images/D-32.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/bc/PL_road_sign_D-32.svg"
+  },
+  {
+    "id": "D-33",
+    "label": "„schronisko młodzieżowe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-33.svg",
+    "img": "./signs/images/D-33.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/96/PL_road_sign_D-33.svg"
+  },
+  {
+    "id": "D-34",
+    "label": "„punkt informacji turystycznej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-34.svg",
+    "img": "./signs/images/D-34.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/09/PL_road_sign_D-34.svg"
+  },
+  {
+    "id": "D-34a",
+    "label": "„informacja radiowa o ruchu drogowym”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-34a.svg",
+    "img": "./signs/images/D-34a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/29/PL_road_sign_D-34a.svg"
+  },
+  {
+    "id": "D-34b",
+    "label": "„zbiorcza tablica informacyjna”[8]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-34b.svg",
+    "img": "./signs/images/D-34b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6c/PL_road_sign_D-34b.svg"
+  },
+  {
+    "id": "D-35",
+    "label": "„przejście podziemne dla pieszych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-35.svg",
+    "img": "./signs/images/D-35.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/50/PL_road_sign_D-35.svg"
+  },
+  {
+    "id": "D-35a",
+    "label": "„schody ruchome w dół”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-35a.svg",
+    "img": "./signs/images/D-35a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6b/PL_road_sign_D-35a.svg"
+  },
+  {
+    "id": "D-36",
+    "label": "„przejście nadziemne dla pieszych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-36.svg",
+    "img": "./signs/images/D-36.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/31/PL_road_sign_D-36.svg"
+  },
+  {
+    "id": "D-36a",
+    "label": "„schody ruchome w górę”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-36a.svg",
+    "img": "./signs/images/D-36a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c0/PL_road_sign_D-36a.svg"
+  },
+  {
+    "id": "D-37",
+    "label": "„tunel”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-37.svg",
+    "img": "./signs/images/D-37.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/30/PL_road_sign_D-37.svg"
+  },
+  {
+    "id": "D-38",
+    "label": "„koniec tunelu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-38.svg",
+    "img": "./signs/images/D-38.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b8/PL_road_sign_D-38.svg"
+  },
+  {
+    "id": "D-39",
+    "label": "„dopuszczalne prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_D-39_(wersja_2021).svg",
+    "img": "./signs/images/D-39.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/9a/Znak_D-39_%28wersja_2021%29.svg"
+  },
+  {
+    "id": "D-39a",
+    "label": "„opłaty drogowe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-39a.svg",
+    "img": "./signs/images/D-39a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/64/PL_road_sign_D-39a.svg"
+  },
+  {
+    "id": "D-40",
+    "label": "„strefa zamieszkania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-40.svg",
+    "img": "./signs/images/D-40.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/45/PL_road_sign_D-40.svg"
+  },
+  {
+    "id": "D-41",
+    "label": "„koniec strefy zamieszkania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-41.svg",
+    "img": "./signs/images/D-41.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/4c/PL_road_sign_D-41.svg"
+  },
+  {
+    "id": "D-42",
+    "label": "„obszar zabudowany”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-42.svg",
+    "img": "./signs/images/D-42.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/63/PL_road_sign_D-42.svg"
+  },
+  {
+    "id": "D-43",
+    "label": "„koniec obszaru zabudowanego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-43.svg",
+    "img": "./signs/images/D-43.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/fd/PL_road_sign_D-43.svg"
+  },
+  {
+    "id": "D-44",
+    "label": "„strefa płatnego parkowania lub śródmiejska strefa płatnego parkowania”[8]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-44.svg",
+    "img": "./signs/images/D-44.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/bf/PL_road_sign_D-44.svg"
+  },
+  {
+    "id": "D-45",
+    "label": "„koniec strefy płatnego parkowania lub śródmiejskiej strefy płatnego parkowania”[8]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-45.svg",
+    "img": "./signs/images/D-45.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/61/PL_road_sign_D-45.svg"
+  },
+  {
+    "id": "D-46",
+    "label": "„droga wewnętrzna”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-46.svg",
+    "img": "./signs/images/D-46.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/cd/PL_road_sign_D-46.svg"
+  },
+  {
+    "id": "D-47",
+    "label": "„koniec drogi wewnętrznej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-47.svg",
+    "img": "./signs/images/D-47.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/07/PL_road_sign_D-47.svg"
+  },
+  {
+    "id": "D-48",
+    "label": "„zmiana pierwszeństwa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-48.svg",
+    "img": "./signs/images/D-48.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/7d/PL_road_sign_D-48.svg"
+  },
+  {
+    "id": "D-48a",
+    "label": "„zmiana pierwszeństwa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-48a.svg",
+    "img": "./signs/images/D-48a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/18/PL_road_sign_D-48a.svg"
+  },
+  {
+    "id": "D-49",
+    "label": "„pobór opłat”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-49.svg",
+    "img": "./signs/images/D-49.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/7d/PL_road_sign_D-49.svg"
+  },
+  {
+    "id": "D-50",
+    "label": "„zatoka”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-50.svg",
+    "img": "./signs/images/D-50.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/af/PL_road_sign_D-50.svg"
+  },
+  {
+    "id": "D-51",
+    "label": "„automatyczna kontrola prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-51.svg",
+    "img": "./signs/images/D-51.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/ba/PL_road_sign_D-51.svg"
+  },
+  {
+    "id": "D-51a",
+    "label": "„automatyczna kontrola średniej prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-51aa.svg",
+    "img": "./signs/images/D-51a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/65/PL_road_sign_D-51aa.svg"
+  },
+  {
+    "id": "D-51b",
+    "label": "„koniec automatycznej kontroli średniej prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-51b.svg",
+    "img": "./signs/images/D-51b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6d/PL_road_sign_D-51b.svg"
+  },
+  {
+    "id": "D-52",
+    "label": "„strefa ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-52.svg",
+    "img": "./signs/images/D-52.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/3a/PL_road_sign_D-52.svg"
+  },
+  {
+    "id": "D-53",
+    "label": "„koniec strefy ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-53.svg",
+    "img": "./signs/images/D-53.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/70/PL_road_sign_D-53.svg"
+  },
+  {
+    "id": "D-54",
+    "label": "„strefa czystego transportu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-54.svg",
+    "img": "./signs/images/D-54.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8d/PL_road_sign_D-54.svg"
+  },
+  {
+    "id": "D-55",
+    "label": "„koniec strefy czystego transportu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_D-55.svg",
+    "img": "./signs/images/D-55.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/34/PL_road_sign_D-55.svg"
+  },
+  {
+    "id": "E-1",
+    "label": "„tablica przeddrogowskazowa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-1.svg",
+    "img": "./signs/images/E-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/98/Znak_E-1.svg"
+  },
+  {
+    "id": "E-1a",
+    "label": "„tablica przeddrogowskazowa na autostradzie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-1a.svg",
+    "img": "./signs/images/E-1a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/dc/Znak_E-1a.svg"
+  },
+  {
+    "id": "E-1b",
+    "label": "„tablica przeddrogowskazowa przed wjazdem na autostradę”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-1b.svg",
+    "img": "./signs/images/E-1b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d2/Znak_E-1b.svg"
+  },
+  {
+    "id": "E-2a",
+    "label": "„drogowskaz tablicowy umieszczany obok jezdni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-2a.svg",
+    "img": "./signs/images/E-2a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e0/Znak_E-2a.svg"
+  },
+  {
+    "id": "E-2b",
+    "label": "„drogowskaz tablicowy umieszczany nad jezdnią”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-2b.svg",
+    "img": "./signs/images/E-2b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c0/Znak_E-2b.svg"
+  },
+  {
+    "id": "E-2c",
+    "label": "„drogowskaz tablicowy umieszczany obok jezdni na autostradzie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-2c.svg",
+    "img": "./signs/images/E-2c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/21/Znak_E-2c.svg"
+  },
+  {
+    "id": "E-2d",
+    "label": "„drogowskaz tablicowy umieszczany nad jezdnią na autostradzie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-2d.svg",
+    "img": "./signs/images/E-2d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/83/Znak_E-2d.svg"
+  },
+  {
+    "id": "E-2e",
+    "label": "„drogowskaz tablicowy umieszczany obok jezdni przed wjazdem na autostradę”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-2e.svg",
+    "img": "./signs/images/E-2e.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2a/Znak_E-2e.svg"
+  },
+  {
+    "id": "E-2f",
+    "label": "„drogowskaz tablicowy umieszczany nad jezdnią przed wjazdem na autostradę”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-2f.svg",
+    "img": "./signs/images/E-2f.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0e/Znak_E-2f.svg"
+  },
+  {
+    "id": "E-3",
+    "label": "„drogowskaz w kształcie strzały do miejscowości wskazujący numer drogi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-3.svg",
+    "img": "./signs/images/E-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/92/Znak_E-3.svg"
+  },
+  {
+    "id": "E-4",
+    "label": "„drogowskaz w kształcie strzały do miejscowości podający do niej odległość”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-4.svg",
+    "img": "./signs/images/E-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e7/Znak_E-4.svg"
+  },
+  {
+    "id": "E-5",
+    "label": "„drogowskaz do dzielnicy miasta”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-5.svg",
+    "img": "./signs/images/E-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/91/Znak_E-5.svg"
+  },
+  {
+    "id": "E-6",
+    "label": "„drogowskaz do lotniska”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-6.svg",
+    "img": "./signs/images/E-6.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ec/Znak_E-6.svg"
+  },
+  {
+    "id": "E-6a",
+    "label": "„drogowskaz do dworca lub stacji kolejowej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-6a.svg",
+    "img": "./signs/images/E-6a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/fb/Znak_E-6a.svg"
+  },
+  {
+    "id": "E-6a",
+    "label": "„drogowskaz do dworca lub stacji kolejowej” (wariant)",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-6a.PKP.svg",
+    "img": "./signs/images/E-6a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d1/Znak_E-6a.PKP.svg"
+  },
+  {
+    "id": "E-6b",
+    "label": "„drogowskaz do dworca autobusowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-6b.svg",
+    "img": "./signs/images/E-6b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/78/Znak_E-6b.svg"
+  },
+  {
+    "id": "E-6c",
+    "label": "„drogowskaz do przystani promowej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-6c.svg",
+    "img": "./signs/images/E-6c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a9/Znak_E-6c.svg"
+  },
+  {
+    "id": "E-7",
+    "label": "„drogowskaz do przystani wodnej lub żeglugi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-7.svg",
+    "img": "./signs/images/E-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d3/Znak_E-7.svg"
+  },
+  {
+    "id": "E-8",
+    "label": "„drogowskaz do plaży lub miejsca kąpielowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-8.svg",
+    "img": "./signs/images/E-8.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/df/Znak_E-8.svg"
+  },
+  {
+    "id": "E-9",
+    "label": "„drogowskaz do muzeum”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-9.svg",
+    "img": "./signs/images/E-9.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/64/Znak_E-9.svg"
+  },
+  {
+    "id": "E-10",
+    "label": "„drogowskaz do zabytku jako dobra kultury”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-10.svg",
+    "img": "./signs/images/E-10.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e2/Znak_E-10.svg"
+  },
+  {
+    "id": "E-11",
+    "label": "„drogowskaz do zabytku przyrody”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-11.svg",
+    "img": "./signs/images/E-11.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/08/Znak_E-11.svg"
+  },
+  {
+    "id": "E-12",
+    "label": "„drogowskaz do punktu widokowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-12.svg",
+    "img": "./signs/images/E-12.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/cb/Znak_E-12.svg"
+  },
+  {
+    "id": "E-12a",
+    "label": "„drogowskaz do szlaku rowerowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-12a.svg",
+    "img": "./signs/images/E-12a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/5f/Znak_E-12a.svg"
+  },
+  {
+    "id": "E-13",
+    "label": "„tablica kierunkowa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-13.svg",
+    "img": "./signs/images/E-13.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/49/Znak_E-13.svg"
+  },
+  {
+    "id": "E-14",
+    "label": "„tablica szlaku drogowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-14.svg",
+    "img": "./signs/images/E-14.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/cf/Znak_E-14.svg"
+  },
+  {
+    "id": "E-14a",
+    "label": "„tablica szlaku drogowego na autostradzie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-14a.svg",
+    "img": "./signs/images/E-14a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/15/Znak_E-14a.svg"
+  },
+  {
+    "id": "E-15a",
+    "label": "„numer drogi krajowej”[5]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-15a.svg",
+    "img": "./signs/images/E-15a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/3e/Znak_E-15a.svg"
+  },
+  {
+    "id": "E-15b",
+    "label": "„numer drogi wojewódzkiej”[5]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-15b.svg",
+    "img": "./signs/images/E-15b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/5a/Znak_E-15b.svg"
+  },
+  {
+    "id": "E-15c",
+    "label": "„numer autostrady”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-15c.svg",
+    "img": "./signs/images/E-15c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c3/Znak_E-15c.svg"
+  },
+  {
+    "id": "E-15d",
+    "label": "„numer drogi ekspresowej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-15d.svg",
+    "img": "./signs/images/E-15d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/aa/Znak_E-15d.svg"
+  },
+  {
+    "id": "E-16",
+    "label": "„numer szlaku międzynarodowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-16.svg",
+    "img": "./signs/images/E-16.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/af/Znak_E-16.svg"
+  },
+  {
+    "id": "E-17a",
+    "label": "„miejscowość”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-17a.svg",
+    "img": "./signs/images/E-17a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ee/Znak_E-17a.svg"
+  },
+  {
+    "id": "E-18a",
+    "label": "„koniec miejscowości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-18a.svg",
+    "img": "./signs/images/E-18a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6c/Znak_E-18a.svg"
+  },
+  {
+    "id": "E-19a",
+    "label": "„obwodnica”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-19a.svg",
+    "img": "./signs/images/E-19a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c9/Znak_E-19a.svg"
+  },
+  {
+    "id": "E-20",
+    "label": "„tablica węzła drogowego na autostradzie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-20.svg",
+    "img": "./signs/images/E-20.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/3a/Znak_E-20.svg"
+  },
+  {
+    "id": "E-20a",
+    "label": "„tablica węzła drogowego na autostradzie” (wariant)",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-20a.svg",
+    "img": "./signs/images/E-20a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ec/Znak_E-20a.svg"
+  },
+  {
+    "id": "E-21",
+    "label": "„dzielnica (osiedle)”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-21.svg",
+    "img": "./signs/images/E-21.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/89/Znak_E-21.svg"
+  },
+  {
+    "id": "E-22a",
+    "label": "„samochodowy szlak turystyczny”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-22a.svg",
+    "img": "./signs/images/E-22a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/09/Znak_E-22a.svg"
+  },
+  {
+    "id": "E-22b",
+    "label": "„obiekt na samochodowym szlaku turystycznym”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-22b.svg",
+    "img": "./signs/images/E-22b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2c/Znak_E-22b.svg"
+  },
+  {
+    "id": "E-22c",
+    "label": "„informacja o obiektach turystycznych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_E-22c.svg",
+    "img": "./signs/images/E-22c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/ce/Znak_E-22c.svg"
+  },
+  {
+    "id": "F-1",
+    "label": "„przejście graniczne”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-1.svg",
+    "img": "./signs/images/F-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/14/PL_road_sign_F-1.svg"
+  },
+  {
+    "id": "F-2",
+    "label": "„przekraczanie granicy zabronione”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-2.svg",
+    "img": "./signs/images/F-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/1b/PL_road_sign_F-2.svg"
+  },
+  {
+    "id": "F-2a",
+    "label": "„granica państwa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-2a.svg",
+    "img": "./signs/images/F-2a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/36/PL_road_sign_F-2a.svg"
+  },
+  {
+    "id": "F-3",
+    "label": "„granica obszaru administracyjnego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-3.svg",
+    "img": "./signs/images/F-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/1d/PL_road_sign_F-3.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-3a.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a2/PL_road_sign_F-3a.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-3b.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/eb/PL_road_sign_F-3b.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-3c.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f1/PL_road_sign_F-3c.svg"
+  },
+  {
+    "id": "F-4",
+    "label": "„nazwa rzeki”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-4.svg",
+    "img": "./signs/images/F-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/64/PL_road_sign_F-4.svg"
+  },
+  {
+    "id": "F-5",
+    "label": "„uprzedzenie o zakazie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-5.svg",
+    "img": "./signs/images/F-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6d/PL_road_sign_F-5.svg"
+  },
+  {
+    "id": "F-6",
+    "label": "„znak uprzedzający umieszczany przed skrzyżowaniem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-6.svg",
+    "img": "./signs/images/F-6.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0a/PL_road_sign_F-6.svg"
+  },
+  {
+    "id": "F-6a_",
+    "label": "wariant znaku uprzedzającego",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-6a.svg",
+    "img": "./signs/images/F-6a_.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/43/PL_road_sign_F-6a.svg"
+  },
+  {
+    "id": "F-7",
+    "label": "„sposób jazdy w związku z zakazem skręcania w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-7.svg",
+    "img": "./signs/images/F-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c0/PL_road_sign_F-7.svg"
+  },
+  {
+    "id": "F-8",
+    "label": "„objazd w związku z zamknięciem drogi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-8.svg",
+    "img": "./signs/images/F-8.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/16/PL_road_sign_F-8.svg"
+  },
+  {
+    "id": "F-9",
+    "label": "„znak prowadzący na drodze objazdowej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-9.svg",
+    "img": "./signs/images/F-9.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/1d/PL_road_sign_F-9.svg"
+  },
+  {
+    "id": "F-10",
+    "label": "„kierunki na pasach ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-10.svg",
+    "img": "./signs/images/F-10.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/19/PL_road_sign_F-10.svg"
+  },
+  {
+    "id": "F-11",
+    "label": "„kierunki na pasie ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-11d.svg",
+    "img": "./signs/images/F-11.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e2/PL_road_sign_F-11d.svg"
+  },
+  {
+    "id": "F-12",
+    "label": "„znak wskazujący przejazd tranzytowy umieszczany przed skrzyżowaniem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-12a.svg",
+    "img": "./signs/images/F-12.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/7d/PL_road_sign_F-12a.svg"
+  },
+  {
+    "id": "F-13",
+    "label": "„przejazd tranzytowy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-13a.svg",
+    "img": "./signs/images/F-13.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d1/PL_road_sign_F-13a.svg"
+  },
+  {
+    "id": "F-14a",
+    "label": "„tablica wskaźnikowa na autostradzie umieszczana w odległości 300 m przed pasem wyłączania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-14a.svg",
+    "img": "./signs/images/F-14a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/64/PL_road_sign_F-14a.svg"
+  },
+  {
+    "id": "F-14b",
+    "label": "„tablica wskaźnikowa na autostradzie umieszczana w odległości 200 m przed pasem wyłączania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-14b.svg",
+    "img": "./signs/images/F-14b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e2/PL_road_sign_F-14b.svg"
+  },
+  {
+    "id": "F-14c",
+    "label": "„tablica wskaźnikowa na autostradzie umieszczana w odległości 100 m przed pasem wyłączania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-14c.svg",
+    "img": "./signs/images/F-14c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/3b/PL_road_sign_F-14c.svg"
+  },
+  {
+    "id": "F-14d",
+    "label": "„tablica wskaźnikowa na drodze ekspresowej umieszczana w odległości 300 m przed pasem\n wyłączania”[8]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-14d.svg",
+    "img": "./signs/images/F-14d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/79/PL_road_sign_F-14d.svg"
+  },
+  {
+    "id": "F-14e",
+    "label": "„tablica wskaźnikowa na drodze ekspresowej umieszczana w odległości 200 m przed pasem\n wyłączania”[8]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-14e.svg",
+    "img": "./signs/images/F-14e.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/9b/PL_road_sign_F-14e.svg"
+  },
+  {
+    "id": "F-14f",
+    "label": "„tablica wskaźnikowa na drodze ekspresowej umieszczana w odległości 100 m przed pasem\n wyłączania”[8]",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-14f.svg",
+    "img": "./signs/images/F-14f.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/aa/PL_road_sign_F-14f.svg"
+  },
+  {
+    "id": "F-15",
+    "label": "„niesymetryczny podział jezdni dla przeciwnych kierunków ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-15a.svg",
+    "img": "./signs/images/F-15.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d9/PL_road_sign_F-15a.svg"
+  },
+  {
+    "id": "F-16",
+    "label": "„koniec pasa ruchu na jezdni dwukierunkowej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-16.svg",
+    "img": "./signs/images/F-16.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/cb/PL_road_sign_F-16.svg"
+  },
+  {
+    "id": "F-17",
+    "label": "„koniec pasa ruchu na jezdni jednokierunkowej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-17.svg",
+    "img": "./signs/images/F-17.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/ba/PL_road_sign_F-17.svg"
+  },
+  {
+    "id": "F-18",
+    "label": "„przeciwny kierunek dla określonych pojazdów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-18.svg",
+    "img": "./signs/images/F-18.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ef/PL_road_sign_F-18.svg"
+  },
+  {
+    "id": "F-19",
+    "label": "„pas ruchu dla określonych pojazdów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-19.svg",
+    "img": "./signs/images/F-19.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/13/PL_road_sign_F-19.svg"
+  },
+  {
+    "id": "F-20",
+    "label": "„część drogi (pas ruchu) dla określonych pojazdów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-20.svg",
+    "img": "./signs/images/F-20.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/35/PL_road_sign_F-20.svg"
+  },
+  {
+    "id": "F-21",
+    "label": "„ruch skierowany na sąsiednią jezdnię”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-21.svg",
+    "img": "./signs/images/F-21.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/03/PL_road_sign_F-21.svg"
+  },
+  {
+    "id": "F-22",
+    "label": "„ograniczenia na pasie ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_F-22.svg",
+    "img": "./signs/images/F-22.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d5/PL_road_sign_F-22.svg"
+  },
+  {
+    "id": "T-1",
+    "label": "„tabliczka wskazująca odległość znaku ostrzegawczego od miejsca niebezpiecznego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-1.svg",
+    "img": "./signs/images/T-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/cd/PL_road_sign_T-1.svg"
+  },
+  {
+    "id": "T-1a",
+    "label": "„tabliczka wskazująca odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-1a.svg",
+    "img": "./signs/images/T-1a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/47/PL_road_sign_T-1a.svg"
+  },
+  {
+    "id": "T-1b",
+    "label": "„tabliczka wskazująca długość tunelu lub odcinek drogi do końca tunelu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-1b.svg",
+    "img": "./signs/images/T-1b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ed/PL_road_sign_T-1b.svg"
+  },
+  {
+    "id": "T-2",
+    "label": "„tabliczka wskazująca długość odcinka drogi, na którym powtarza się lub występuje\n niebezpieczeństwo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-2.svg",
+    "img": "./signs/images/T-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/3a/PL_road_sign_T-2.svg"
+  },
+  {
+    "id": "T-3",
+    "label": "„tabliczka wskazująca koniec odcinka, na którym powtarza się lub występuje niebezpieczeństwo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-3.svg",
+    "img": "./signs/images/T-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/5f/PL_road_sign_T-3.svg"
+  },
+  {
+    "id": "T-3a",
+    "label": "„tabliczka wskazująca koniec miejsca przeznaczonego na postój”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-3a.svg",
+    "img": "./signs/images/T-3a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d5/PL_road_sign_T-3a.svg"
+  },
+  {
+    "id": "T-4",
+    "label": "„tabliczka wskazująca liczbę zakrętów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-4.svg",
+    "img": "./signs/images/T-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ab/PL_road_sign_T-4.svg"
+  },
+  {
+    "id": "T-5",
+    "label": "„tabliczka wskazująca początek drogi krętej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-5.svg",
+    "img": "./signs/images/T-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/9c/PL_road_sign_T-5.svg"
+  },
+  {
+    "id": "T-6a",
+    "label": "„tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie\n (umieszczana na drodze z pierwszeństwem)”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-6a.svg",
+    "img": "./signs/images/T-6a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e9/PL_road_sign_T-6a.svg"
+  },
+  {
+    "id": "T-6b",
+    "label": "„tabliczka wskazująca układ dróg podporządkowanych (umieszczana na drodze z\n pierwszeństwem)”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-6b.svg",
+    "img": "./signs/images/T-6b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c0/PL_road_sign_T-6b.svg"
+  },
+  {
+    "id": "T-6c",
+    "label": "„tabliczka wskazująca rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie\n (umieszczana na drodze podporządkowanej)”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-6c.svg",
+    "img": "./signs/images/T-6c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f4/PL_road_sign_T-6c.svg"
+  },
+  {
+    "id": "T-6d",
+    "label": "„tabliczka wskazująca prostopadły przebieg drogi z pierwszeństwem przez skrzyżowanie oraz\n układ dróg podporządkowanych (umieszczana na drodze\n podporządkowanej)”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-6d.svg",
+    "img": "./signs/images/T-6d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c3/PL_road_sign_T-6d.svg"
+  },
+  {
+    "id": "T-7",
+    "label": "„tabliczka wskazująca układ torów i drogi na przejeździe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-7.svg",
+    "img": "./signs/images/T-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8f/PL_road_sign_T-7.svg"
+  },
+  {
+    "id": "T-8",
+    "label": "„tabliczka wskazująca miejsce, w którym ruch pojazdów został skierowany na tory tramwajowe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-8.svg",
+    "img": "./signs/images/T-8.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0d/PL_road_sign_T-8.svg"
+  },
+  {
+    "id": "T-9",
+    "label": "„tabliczka wskazująca rzeczywistą wielkość spadku lub wzniesienia drogi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-9.svg",
+    "img": "./signs/images/T-9.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/bb/PL_road_sign_T-9.svg"
+  },
+  {
+    "id": "T-10",
+    "label": "„tabliczka wskazująca bocznicę kolejową lub tor o podobnym charakterze”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-10.svg",
+    "img": "./signs/images/T-10.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/56/PL_road_sign_T-10.svg"
+  },
+  {
+    "id": "T-11",
+    "label": "„tabliczka wskazująca przeprawę promową”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-11.svg",
+    "img": "./signs/images/T-11.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/bb/PL_road_sign_T-11.svg"
+  },
+  {
+    "id": "T-12",
+    "label": "„tabliczka wskazująca podłużny uskok nawierzchni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-12.svg",
+    "img": "./signs/images/T-12.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/dd/PL_road_sign_T-12.svg"
+  },
+  {
+    "id": "T-13",
+    "label": "„tabliczka wskazująca odcinek drogi, na którym występują deformacje nawierzchni w postaci\n kolein”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-13.svg",
+    "img": "./signs/images/T-13.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/fa/PL_road_sign_T-13.svg"
+  },
+  {
+    "id": "T-14",
+    "label": "„tabliczka wskazująca miejsce częstych wypadków o charakterze wskazanym na tabliczce”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-14.svg",
+    "img": "./signs/images/T-14.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/4f/PL_road_sign_T-14.svg"
+  },
+  {
+    "id": "T-15",
+    "label": "„tabliczka wskazująca miejsce częstych wypadków spowodowanych śliską nawierzchnią jezdni ze\n względu na opady deszczu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-15.svg",
+    "img": "./signs/images/T-15.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b5/PL_road_sign_T-15.svg"
+  },
+  {
+    "id": "T-16",
+    "label": "„tabliczka wskazująca miejsce wyjazdu pojazdów uprzywilejowanych wskazanych na tabliczce”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-16.svg",
+    "img": "./signs/images/T-16.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/88/PL_road_sign_T-16.svg"
+  },
+  {
+    "id": "T-17",
+    "label": "„tabliczka wskazująca granicę państwa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-17.svg",
+    "img": "./signs/images/T-17.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6e/PL_road_sign_T-17.svg"
+  },
+  {
+    "id": "T-18",
+    "label": "„tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu wskazanym na\n tabliczce”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-18.svg",
+    "img": "./signs/images/T-18.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/90/PL_road_sign_T-18.svg"
+  },
+  {
+    "id": "T-18a",
+    "label": "„tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu najpierw w prawo, a potem w\n lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-18a.svg",
+    "img": "./signs/images/T-18a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/82/PL_road_sign_T-18a.svg"
+  },
+  {
+    "id": "T-18b",
+    "label": "„tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-18b.svg",
+    "img": "./signs/images/T-18b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2e/PL_road_sign_T-18b.svg"
+  },
+  {
+    "id": "T-18c",
+    "label": "„tabliczka wskazująca nieoczekiwaną zmianę kierunku ruchu o przebiegu w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-18c.svg",
+    "img": "./signs/images/T-18c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/91/PL_road_sign_T-18c.svg"
+  },
+  {
+    "id": "T-19",
+    "label": "„tabliczka wskazująca na malowanie znaków poziomych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-19.svg",
+    "img": "./signs/images/T-19.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/73/PL_road_sign_T-19.svg"
+  },
+  {
+    "id": "T-20",
+    "label": "„tabliczka wskazująca długość odcinka jezdni, na którym zakaz obowiązuje”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-20.svg",
+    "img": "./signs/images/T-20.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/05/PL_road_sign_T-20.svg"
+  },
+  {
+    "id": "T-21",
+    "label": "„tabliczka wskazująca odległość znaku od miejsca, od którego lub w którym zakaz obowiązuje”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-21.svg",
+    "img": "./signs/images/T-21.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8e/PL_road_sign_T-21.svg"
+  },
+  {
+    "id": "T-22__",
+    "label": "tabliczka wskazująca, że znak nie dotyczy rowerów jednośladowych“",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-22.svg",
+    "img": "./signs/images/T-22__.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/e8/PL_road_sign_T-22.svg"
+  },
+  {
+    "id": "T-23a",
+    "label": "„tabliczka wskazująca motocykle”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23a.svg",
+    "img": "./signs/images/T-23a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/7d/PL_road_sign_T-23a.svg"
+  },
+  {
+    "id": "T-23b",
+    "label": "„tabliczka wskazująca samochody ciężarowe, pojazdy specjalne, pojazdy używane do celów\n specjalnych, o dopuszczalnej masie całkowitej\n przekraczającej 3,5 t, oraz ciągniki samochodowe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23b.svg",
+    "img": "./signs/images/T-23b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/4f/PL_road_sign_T-23b.svg"
+  },
+  {
+    "id": "T-23c",
+    "label": "„tabliczka wskazująca ciągniki rolnicze i pojazdy wolnobieżne”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23c.svg",
+    "img": "./signs/images/T-23c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8a/PL_road_sign_T-23c.svg"
+  },
+  {
+    "id": "T-23d",
+    "label": "„tabliczka wskazująca pojazdy silnikowe z przyczepą, z wyjątkiem pojazdów z przyczepą\n jednoosiową lub naczepą”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23d.svg",
+    "img": "./signs/images/T-23d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b2/PL_road_sign_T-23d.svg"
+  },
+  {
+    "id": "T-23e",
+    "label": "„tabliczka wskazująca pojazdy z przyczepą kempingową”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23e.svg",
+    "img": "./signs/images/T-23e.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/00/PL_road_sign_T-23e.svg"
+  },
+  {
+    "id": "T-23f",
+    "label": "„tabliczka wskazująca autobusy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23f.svg",
+    "img": "./signs/images/T-23f.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/74/PL_road_sign_T-23f.svg"
+  },
+  {
+    "id": "T-23g",
+    "label": "„tabliczka wskazująca trolejbusy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23g.svg",
+    "img": "./signs/images/T-23g.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ea/PL_road_sign_T-23g.svg"
+  },
+  {
+    "id": "T-23h",
+    "label": "„tabliczka wskazująca pojazdy z towarami niebezpiecznymi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23h.svg",
+    "img": "./signs/images/T-23h.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/ce/PL_road_sign_T-23h.svg"
+  },
+  {
+    "id": "T-23i",
+    "label": "„tabliczka wskazująca pojazdy z towarami wybuchowymi lub łatwo zapalnymi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23i.svg",
+    "img": "./signs/images/T-23i.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6c/PL_road_sign_T-23i.svg"
+  },
+  {
+    "id": "T-23j",
+    "label": "„tabliczka wskazująca pojazdy z towarami, które mogą skazić wodę”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-23j.svg",
+    "img": "./signs/images/T-23j.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b3/PL_road_sign_T-23j.svg"
+  },
+  {
+    "id": "T-24",
+    "label": "„tabliczka wskazująca, że pozostawiony pojazd zostanie usunięty na koszt właściciela”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-24.svg",
+    "img": "./signs/images/T-24.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d9/PL_road_sign_T-24.svg"
+  },
+  {
+    "id": "T-25a",
+    "label": "„tabliczka wskazująca początek zakazu postoju lub zatrzymywania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_T-25a.svg",
+    "img": "./signs/images/T-25a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f4/Znak_T-25a.svg"
+  },
+  {
+    "id": "T-25b",
+    "label": "„tabliczka wskazująca kontynuację zakazu postoju lub zatrzymywania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-25b.svg",
+    "img": "./signs/images/T-25b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8e/PL_road_sign_T-25b.svg"
+  },
+  {
+    "id": "T-25c",
+    "label": "„tabliczka wskazująca odwołanie zakazu postoju lub zatrzymywania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-25c.svg",
+    "img": "./signs/images/T-25c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/7c/PL_road_sign_T-25c.svg"
+  },
+  {
+    "id": "T-26",
+    "label": "„tabliczka wskazująca, że zakaz postoju lub zatrzymywania dotyczy strony placu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-26.svg",
+    "img": "./signs/images/T-26.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ed/PL_road_sign_T-26.svg"
+  },
+  {
+    "id": "T-27",
+    "label": "„tabliczka wskazująca, że przejście dla pieszych jest szczególnie uczęszczane przez dzieci”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-27.svg",
+    "img": "./signs/images/T-27.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/33/PL_road_sign_T-27.svg"
+  },
+  {
+    "id": "T-28",
+    "label": "„tabliczka wskazująca, że za przejazd drogą pobierana jest opłata”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-28.svg",
+    "img": "./signs/images/T-28.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/44/PL_road_sign_T-28.svg"
+  },
+  {
+    "id": "T-28a",
+    "label": "„tabliczka wskazująca koniec odcinka drogi, za przejazd którym pobierana jest opłata”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-28a.svg",
+    "img": "./signs/images/T-28a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/cc/PL_road_sign_T-28a.svg"
+  },
+  {
+    "id": "T-29",
+    "label": "„tabliczka informująca o miejscu przeznaczonym dla pojazdu samochodowego osób, o których\n mowa w art. 8 ust. 1 i 2 ustawy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-29.svg",
+    "img": "./signs/images/T-29.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/69/PL_road_sign_T-29.svg"
+  },
+  {
+    "id": "T-30",
+    "label": "„tabliczka wskazująca sposób ustawienia pojazdu względem krawędzi jezdni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-30a.svg",
+    "img": "./signs/images/T-30.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/1e/PL_road_sign_T-30a.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-30b.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/34/PL_road_sign_T-30b.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-30c.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/29/PL_road_sign_T-30c.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-30d.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b0/PL_road_sign_T-30d.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-30e.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ee/PL_road_sign_T-30e.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-30f.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/dc/PL_road_sign_T-30f.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-30g.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/72/PL_road_sign_T-30g.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-30h.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8b/PL_road_sign_T-30h.svg"
+  },
+  {
+    "id": "",
+    "label": "",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-30i.svg",
+    "img": "./signs/images/.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/74/PL_road_sign_T-30i.svg"
+  },
+  {
+    "id": "T-31",
+    "label": "„tabliczka wskazująca kategorię tunelu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-31b.svg",
+    "img": "./signs/images/T-31.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b1/PL_road_sign_T-31b.svg"
+  },
+  {
+    "id": "T-32",
+    "label": "„tabliczka wskazująca minimalny odstęp od poprzedzającego pojazdu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-32.svg",
+    "img": "./signs/images/T-32.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f0/PL_road_sign_T-32.svg"
+  },
+  {
+    "id": "T-33",
+    "label": "„tabliczka wskazująca umieszczenie w zatoce telefonu alarmowego i gaśnicy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-33.svg",
+    "img": "./signs/images/T-33.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/55/PL_road_sign_T-33.svg"
+  },
+  {
+    "id": "T-34",
+    "label": "„tabliczka wskazująca pobór opłaty elektronicznej za przejazd drogą publiczną”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_T-34.svg",
+    "img": "./signs/images/T-34.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/7c/PL_road_sign_T-34.svg"
+  },
+  {
+    "id": "G-1a",
+    "label": "„słupek wskaźnikowy z trzema kreskami umieszczany po prawej stronie jezdni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_G-1a.svg",
+    "img": "./signs/images/G-1a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2c/PL_road_sign_G-1a.svg"
+  },
+  {
+    "id": "G-1b",
+    "label": "„słupek wskaźnikowy z dwiema kreskami umieszczany po prawej stronie jezdni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_G-1b.svg",
+    "img": "./signs/images/G-1b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c5/PL_road_sign_G-1b.svg"
+  },
+  {
+    "id": "G-1c",
+    "label": "„słupek wskaźnikowy z jedną kreską umieszczany po prawej stronie jezdni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_G-1c.svg",
+    "img": "./signs/images/G-1c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ab/PL_road_sign_G-1c.svg"
+  },
+  {
+    "id": "G-1d",
+    "label": "„słupek wskaźnikowy z trzema kreskami umieszczany po lewej stronie jezdni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_G-1d.svg",
+    "img": "./signs/images/G-1d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/86/PL_road_sign_G-1d.svg"
+  },
+  {
+    "id": "G-1e",
+    "label": "„słupek wskaźnikowy z dwiema kreskami umieszczany po lewej stronie jezdni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_G-1e.svg",
+    "img": "./signs/images/G-1e.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/85/PL_road_sign_G-1e.svg"
+  },
+  {
+    "id": "G-1f",
+    "label": "„słupek wskaźnikowy z jedną kreską umieszczany po lewej stronie jezdni”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_G-1f.svg",
+    "img": "./signs/images/G-1f.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d5/PL_road_sign_G-1f.svg"
+  },
+  {
+    "id": "G-2",
+    "label": "„sieć pod napięciem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_G-2.svg",
+    "img": "./signs/images/G-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8a/PL_road_sign_G-2.svg"
+  },
+  {
+    "id": "G-3",
+    "label": "„krzyż św. Andrzeja przed przejazdem kolejowo-drogowym jednotorowym”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_G-3.svg",
+    "img": "./signs/images/G-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/3c/PL_road_sign_G-3.svg"
+  },
+  {
+    "id": "G-4",
+    "label": "„krzyż św. Andrzeja przed przejazdem kolejowo-drogowym wielotorowym”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_G-4.svg",
+    "img": "./signs/images/G-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/f2/PL_road_sign_G-4.svg"
+  },
+  {
+    "id": "AT-1",
+    "label": "„sygnalizacja świetlna”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_AT-1.svg",
+    "img": "./signs/images/AT-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/32/Znak_AT-1.svg"
+  },
+  {
+    "id": "AT-2",
+    "label": "„sygnalizacja świetlna wzbudzana”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_AT-2.svg",
+    "img": "./signs/images/AT-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/80/Znak_AT-2.svg"
+  },
+  {
+    "id": "AT-3",
+    "label": "„niebezpieczny zjazd”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_AT-3.svg",
+    "img": "./signs/images/AT-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/15/Znak_AT-3.svg"
+  },
+  {
+    "id": "AT-4",
+    "label": "„stromy podjazd”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_AT-4.svg",
+    "img": "./signs/images/AT-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b4/Znak_AT-4.svg"
+  },
+  {
+    "id": "AT-5",
+    "label": "„ruch kolizyjny”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_AT-5.svg",
+    "img": "./signs/images/AT-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2c/Znak_AT-5.svg"
+  },
+  {
+    "id": "BT-1",
+    "label": "„ograniczenie prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_BT-1.svg",
+    "img": "./signs/images/BT-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8b/Znak_BT-1.svg"
+  },
+  {
+    "id": "BT-2",
+    "label": "„koniec ograniczenia prędkości”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_BT-2.svg",
+    "img": "./signs/images/BT-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8c/Znak_BT-2.svg"
+  },
+  {
+    "id": "BT-3",
+    "label": "„blokada zwrotnicy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_BT-3.svg",
+    "img": "./signs/images/BT-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2e/Znak_BT-3.svg"
+  },
+  {
+    "id": "BT-4",
+    "label": "„stop — zwrotnica eksploatowana jednostronnie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_BT-4.svg",
+    "img": "./signs/images/BT-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/76/Znak_BT-4.svg"
+  },
+  {
+    "id": "R-1",
+    "label": "„szlak rowerowy lokalny”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-1.svg",
+    "img": "./signs/images/R-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/70/Znak_R-1.svg"
+  },
+  {
+    "id": "R-1a",
+    "label": "„początek (koniec) szlaku rowerowego lokalnego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-1a.svg",
+    "img": "./signs/images/R-1a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ab/Znak_R-1a.svg"
+  },
+  {
+    "id": "R-1b",
+    "label": "„zmiana kierunku szlaku rowerowego lokalnego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-1b.svg",
+    "img": "./signs/images/R-1b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/24/Znak_R-1b.svg"
+  },
+  {
+    "id": "R-3",
+    "label": "„tablica szlaku rowerowego lokalnego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-3.svg",
+    "img": "./signs/images/R-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/35/Znak_R-3.svg"
+  },
+  {
+    "id": "R-4",
+    "label": "„informacja o szlaku rowerowym”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-4.svg",
+    "img": "./signs/images/R-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/1f/Znak_R-4.svg"
+  },
+  {
+    "id": "R-4a",
+    "label": "„informacja o rzeczywistym przebiegu szlaku rowerowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-4a.svg",
+    "img": "./signs/images/R-4a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/94/Znak_R-4a.svg"
+  },
+  {
+    "id": "R-4b",
+    "label": "„zmiana kierunku szlaku rowerowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-4b.svg",
+    "img": "./signs/images/R-4b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/3c/Znak_R-4b.svg"
+  },
+  {
+    "id": "R-4c",
+    "label": "„drogowskaz tablicowy szlaku rowerowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-4c.svg",
+    "img": "./signs/images/R-4c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/bc/Znak_R-4c.svg"
+  },
+  {
+    "id": "R-4d",
+    "label": "„drogowskaz szlaku rowerowego w kształcie strzały podający odległość”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-4d.svg",
+    "img": "./signs/images/R-4d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c4/Znak_R-4d.svg"
+  },
+  {
+    "id": "R-4e",
+    "label": "„tablica przeddrogowskazowa szlaku rowerowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_R-4e.svg",
+    "img": "./signs/images/R-4e.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8f/Znak_R-4e.svg"
+  },
+  {
+    "id": "W-1",
+    "label": "„klasa obciążenia mostu o ruchu jednokierunkowym”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_W-1.svg",
+    "img": "./signs/images/W-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/64/PL_road_sign_W-1.svg"
+  },
+  {
+    "id": "W-2",
+    "label": "„klasa obciążenia mostu o ruchu dwukierunkowym”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_W-2.svg",
+    "img": "./signs/images/W-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/57/PL_road_sign_W-2.svg"
+  },
+  {
+    "id": "W-3",
+    "label": "„klasa obciążenia mostu o ruchu jednokierunkowym dla pojazdów kołowych i gąsienicowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_W-3.svg",
+    "img": "./signs/images/W-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ed/PL_road_sign_W-3.svg"
+  },
+  {
+    "id": "W-4",
+    "label": "„klasa obciążenia mostu o ruchu dwukierunkowym dla pojazdów kołowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_W-4.svg",
+    "img": "./signs/images/W-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/36/PL_road_sign_W-4.svg"
+  },
+  {
+    "id": "W-5",
+    "label": "„klasa obciążenia mostu o ruchu dwukierunkowym dla pojazdów gąsienicowych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_W-5.svg",
+    "img": "./signs/images/W-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c6/PL_road_sign_W-5.svg"
+  },
+  {
+    "id": "W-6",
+    "label": "„szerokość mostu lub środka przeprawowego”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_W-6.svg",
+    "img": "./signs/images/W-6.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/82/PL_road_sign_W-6.svg"
+  },
+  {
+    "id": "W-7",
+    "label": "„wysokość skrajni pionowej na moście lub w tunelu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:PL_road_sign_W-7.svg",
+    "img": "./signs/images/W-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6c/PL_road_sign_W-7.svg"
+  },
+  {
+    "id": "P-1",
+    "label": "„linia pojedyncza przerywana”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-1.svg",
+    "img": "./signs/images/P-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/71/Znak_P-1.svg"
+  },
+  {
+    "id": "P-2",
+    "label": "„linia pojedyncza ciągła”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-2.svg",
+    "img": "./signs/images/P-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/01/Znak_P-2.svg"
+  },
+  {
+    "id": "P-3",
+    "label": "„linia jednostronnie przekraczalna”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-3.svg",
+    "img": "./signs/images/P-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/af/Znak_P-3.svg"
+  },
+  {
+    "id": "P-4",
+    "label": "„linia podwójna ciągła”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-4.svg",
+    "img": "./signs/images/P-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a5/Znak_P-4.svg"
+  },
+  {
+    "id": "P-5",
+    "label": "„linia podwójna przerywana”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-5.svg",
+    "img": "./signs/images/P-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ab/Znak_P-5.svg"
+  },
+  {
+    "id": "P-6",
+    "label": "„linia ostrzegawcza”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-6.svg",
+    "img": "./signs/images/P-6.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/cf/Znak_P-6.svg"
+  },
+  {
+    "id": "P-7a",
+    "label": "„linia krawędziowa przerywana”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-7a.svg",
+    "img": "./signs/images/P-7a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c4/Znak_P-7a.svg"
+  },
+  {
+    "id": "P-7b",
+    "label": "„linia krawędziowa ciągła”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-7b.svg",
+    "img": "./signs/images/P-7b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/57/Znak_P-7b.svg"
+  },
+  {
+    "id": "P-8a",
+    "label": "„strzałka kierunkowa na wprost”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-8a.svg",
+    "img": "./signs/images/P-8a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6a/Znak_P-8a.svg"
+  },
+  {
+    "id": "P-8b",
+    "label": "„strzałka kierunkowa w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-8b.svg",
+    "img": "./signs/images/P-8b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ef/Znak_P-8b.svg"
+  },
+  {
+    "id": "P-8c",
+    "label": "„strzałka kierunkowa do zawracania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-8c.svg",
+    "img": "./signs/images/P-8c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2b/Znak_P-8c.svg"
+  },
+  {
+    "id": "P-8d",
+    "label": "„strzałka kierunkowa w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-8d.svg",
+    "img": "./signs/images/P-8d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/ad/Znak_P-8d.svg"
+  },
+  {
+    "id": "P-9",
+    "label": "„strzałka naprowadzająca w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-9.svg",
+    "img": "./signs/images/P-9.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/3b/Znak_P-9.svg"
+  },
+  {
+    "id": "P-9b",
+    "label": "„strzałka naprowadzająca w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-9b.svg",
+    "img": "./signs/images/P-9b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/34/Znak_P-9b.svg"
+  },
+  {
+    "id": "P-10",
+    "label": "„przejście dla pieszych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-10.svg",
+    "img": "./signs/images/P-10.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b0/Znak_P-10.svg"
+  },
+  {
+    "id": "P-11",
+    "label": "„przejazd dla rowerzystów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-11.svg",
+    "img": "./signs/images/P-11.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/2/2c/Znak_P-11.svg"
+  },
+  {
+    "id": "P-12",
+    "label": "„linia bezwzględnego zatrzymania — stop”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-12.svg",
+    "img": "./signs/images/P-12.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/7c/Znak_P-12.svg"
+  },
+  {
+    "id": "P-13",
+    "label": "„linia warunkowego zatrzymania złożona z trójkątów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-13.svg",
+    "img": "./signs/images/P-13.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/3/39/Znak_P-13.svg"
+  },
+  {
+    "id": "P-14",
+    "label": "„linia warunkowego zatrzymania złożona z prostokątów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-14.svg",
+    "img": "./signs/images/P-14.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/00/Znak_P-14.svg"
+  },
+  {
+    "id": "P-15",
+    "label": "„trójkąt podporządkowania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-15.svg",
+    "img": "./signs/images/P-15.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/52/Znak_P-15.svg"
+  },
+  {
+    "id": "P-16",
+    "label": "„napis stop”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-16.svg",
+    "img": "./signs/images/P-16.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/70/Znak_P-16.svg"
+  },
+  {
+    "id": "P-17",
+    "label": "„linia przystankowa”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-17.svg",
+    "img": "./signs/images/P-17.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c7/Znak_P-17.svg"
+  },
+  {
+    "id": "P-18",
+    "label": "„stanowisko postojowe”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-18.svg",
+    "img": "./signs/images/P-18.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/9b/Znak_P-18.svg"
+  },
+  {
+    "id": "P-19",
+    "label": "„linia wyznaczająca pas postojowy”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-19.svg",
+    "img": "./signs/images/P-19.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a8/Znak_P-19.svg"
+  },
+  {
+    "id": "P-20",
+    "label": "„koperta”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-20.svg",
+    "img": "./signs/images/P-20.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/e/ec/Znak_P-20.svg"
+  },
+  {
+    "id": "P-21",
+    "label": "„powierzchnia wyłączona”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-21.svg",
+    "img": "./signs/images/P-21.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/64/Znak_P-21.svg"
+  },
+  {
+    "id": "P-22",
+    "label": "„BUS”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-22.svg",
+    "img": "./signs/images/P-22.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/64/Znak_P-22.svg"
+  },
+  {
+    "id": "P-23",
+    "label": "„rower”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-23.svg",
+    "img": "./signs/images/P-23.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/b1/Znak_P-23.svg"
+  },
+  {
+    "id": "P-24",
+    "label": "„miejsce dla pojazdu osoby niepełnosprawnej”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-24.svg",
+    "img": "./signs/images/P-24.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/7/78/Znak_P-24.svg"
+  },
+  {
+    "id": "P-25",
+    "label": "„próg zwalniający”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-25.svg",
+    "img": "./signs/images/P-25.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/d/d6/Znak_P-25.svg"
+  },
+  {
+    "id": "P-26",
+    "label": "„piesi”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-26.png",
+    "img": "./signs/images/P-26.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/58/Znak_P-26.png"
+  },
+  {
+    "id": "P-27",
+    "label": "„kierunek i tor ruchu roweru”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_P-27.svg",
+    "img": "./signs/images/P-27.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8c/Znak_P-27.svg"
+  },
+  {
+    "id": "S-1",
+    "label": "„sygnalizator ogólny z sygnałami do kierowania ruchem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-1.svg",
+    "img": "./signs/images/S-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/fa/Sygnalizator_S-1.svg"
+  },
+  {
+    "id": "S-1a",
+    "label": "„sygnalizator z sygnałami dla kierujących rowerem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_S-1a.png",
+    "img": "./signs/images/S-1a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/4/4d/Znak_S-1a.png"
+  },
+  {
+    "id": "S-2",
+    "label": "„sygnalizator z sygnałem dopuszczającym skręcanie w kierunku wskazanym strzałką”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-2.svg",
+    "img": "./signs/images/S-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/c2/Sygnalizator_S-2.svg"
+  },
+  {
+    "id": "S-3a",
+    "label": "„sygnalizator kierunkowy na wprost i w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-3a.png",
+    "img": "./signs/images/S-3a.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/b/bf/Sygnalizator_S-3a.png"
+  },
+  {
+    "id": "S-3b",
+    "label": "„sygnalizator kierunkowy na wprost i w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-3b.png",
+    "img": "./signs/images/S-3b.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/65/Sygnalizator_S-3b.png"
+  },
+  {
+    "id": "S-3c",
+    "label": "„sygnalizator kierunkowy na wprost”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-3.svg",
+    "img": "./signs/images/S-3c.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/f/ff/Sygnalizator_S-3.svg"
+  },
+  {
+    "id": "S-3d",
+    "label": "„sygnalizator kierunkowy w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-3d.svg",
+    "img": "./signs/images/S-3d.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/52/Sygnalizator_S-3d.svg"
+  },
+  {
+    "id": "S-3e",
+    "label": "„sygnalizator kierunkowy w lewo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-3e.svg",
+    "img": "./signs/images/S-3e.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/8/8e/Sygnalizator_S-3e.svg"
+  },
+  {
+    "id": "S-3f",
+    "label": "„sygnalizator kierunkowy w lewo zezwalający na zawracanie”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-3f.png",
+    "img": "./signs/images/S-3f.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/5/59/Sygnalizator_S-3f.png"
+  },
+  {
+    "id": "S-3g",
+    "label": "„sygnalizator kierunkowy do zawracania”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-3g.png",
+    "img": "./signs/images/S-3g.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/c/ce/Sygnalizator_S-3g.png"
+  },
+  {
+    "id": "S-3h",
+    "label": "„sygnalizator kierunkowy w lewo i w prawo”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-3h.png",
+    "img": "./signs/images/S-3h.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6a/Sygnalizator_S-3h.png"
+  },
+  {
+    "id": "S-3",
+    "label": "„sygnalizator kierunkowy z sygnałami dla kierujących rowerem”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Znak_S-3a.png",
+    "img": "./signs/images/S-3.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a5/Znak_S-3a.png"
+  },
+  {
+    "id": "S-4",
+    "label": "„sygnalizator z sygnałami dla pasów ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-4.svg",
+    "img": "./signs/images/S-4.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6a/Sygnalizator_S-4.svg"
+  },
+  {
+    "id": "S-5",
+    "label": "„sygnalizator z sygnałami dla pieszych”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-5.svg",
+    "img": "./signs/images/S-5.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/a/a7/Sygnalizator_S-5.svg"
+  },
+  {
+    "id": "S-6",
+    "label": "„sygnalizator z sygnałami dla rowerzystów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-6.svg",
+    "img": "./signs/images/S-6.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/9/97/Sygnalizator_S-6.svg"
+  },
+  {
+    "id": "S-7",
+    "label": "„sygnalizator z sygnałem nakazującym opuszczenie pasa ruchu”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_S-7.svg",
+    "img": "./signs/images/S-7.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/18/Sygnalizator_S-7.svg"
+  },
+  {
+    "id": "SB",
+    "label": "„sygnalizator z sygnałami dla kierujących autobusami”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_SB.svg",
+    "img": "./signs/images/SB.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/6/6c/Sygnalizator_SB.svg"
+  },
+  {
+    "id": "ST",
+    "label": "„sygnalizator z sygnałami dla tramwajów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_ST.svg",
+    "img": "./signs/images/ST.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0b/Sygnalizator_ST.svg"
+  },
+  {
+    "id": "STK",
+    "label": "„sygnalizator kierunkowy dla tramwajów”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_STK.svg",
+    "img": "./signs/images/STK.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/14/Sygnalizator_STK.svg"
+  },
+  {
+    "id": "STT-1",
+    "label": "„sygnał oznaczający zakaz wjazdu tramwaju za sygnalizator”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_STT-1.svg",
+    "img": "./signs/images/STT-1.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/0/0f/Sygnalizator_STT-1.svg"
+  },
+  {
+    "id": "STT-2",
+    "label": "„sygnał oznaczający zezwolenie na jazdę tramwaju we wskazanym kierunku”",
+    "url": "https://pl.wikipedia.org/wiki/Plik:Sygnalizator_STT-2.svg",
+    "img": "./signs/images/STT-2.svg",
+    "url2": "//upload.wikimedia.org/wikipedia/commons/1/1f/Sygnalizator_STT-2.svg"
+  }
+]
