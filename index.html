@@ -8,12 +8,19 @@
   </head>
   <body>
     <div class="app">
-      <div class="next" id="next">Next</div>
-      <div class="counter" id="counter">0/0</div>
+      <div class="stats">
+        <div class="stats__item stats__item--good" id="good">0</div>
+        <div class="stats__item stats__item--streak" id="streak">0</div>
+        <div class="stats__item stats__item--bad" id="bad">0</div>
+        <!-- <div class="stats__item stats__item--remain" id="remain">0</div> -->
+      </div>
       <div class="sign-container">
         <img id="sign" />
       </div>
-      <div class="responses-container" id="responses"></div>
+      <div class="responses" id="responses"></div>
+      <div class="actions">
+        <div class="button" id="next">Next</div>
+      </div>
     </div>
     <script type="module" src="./main.js"></script>
   </body>

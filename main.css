@@ -1,3 +1,11 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #212121;
+    --section-bg: #eee;
+    --button-bg: rgb(41, 152, 255);
+    font-size: 1.2rem;
+}
+
 html,
 body {
     height: 100dvh;
@@ -5,7 +13,6 @@ body {
     margin: 0;
     border: 0;
     overflow: hidden;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .app {
@@ -15,20 +22,43 @@ body {
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    position: relative;
 }
 
-.next {
-    position: absolute;
-    top: .25em;
-    right: .25em;
+
+/* STATS */
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    /* background-color: var(--section-bg); */
+    padding: .5em;
 }
 
-.counter {
-    position: absolute;
-    top: .25em;
-    left: .25em;
+.stats__item {
+    display: flex;
+    align-items: baseline;
 }
+
+.stats__item::before {
+    margin-right: .5em;
+}
+
+.stats__item--good::before {
+    content: '✔️';
+}
+
+.stats__item--bad::before {
+    content: '❌';
+}
+
+.stats__item--streak::before {
+    content: '🔥';
+}
+.stats__item--remain::before {
+    content: '🧾';
+}
+
+/* SIGN */
 
 .sign-container {
     min-width: 1px;
@@ -37,6 +67,7 @@ body {
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    /* background-color: var(--section-bg); */
 }
 
 .sign-container>img {
@@ -45,21 +76,39 @@ body {
     object-fit: contain;
 }
 
-.responses-container {
+/* RESPONSES */
+
+.responses {
     flex: none;
+    padding: .5em;
 }
 
 .response {
-    padding: .5em .25em;
-    border-radius: .25em;
-    background: #f1f1f1;
-    margin-bottom: .25em;
+    background-color: var(--button-bg);
+    padding: .25em .5em;
+    color: #fff;
+    margin-bottom: .5em;
 }
 
 .response.red {
-    background: #faa;
+    background: rgb(191, 64, 64);
 }
 
 .response.green {
-    background: #afa;
+    background: rgb(64, 191, 64);
+}
+
+/* ACTIONS */
+
+.actions {
+    /* background-color: var(--section-bg); */
+    display: flex;
+    justify-content: end;
+    padding: .5em;
+}
+
+.button {
+    background-color: var(--button-bg);
+    padding: .5em 1em;
+    color: #fff;
 }

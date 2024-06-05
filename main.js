@@ -1,71 +1,69 @@
+import { randomArrIndex, chooseSigns } from './utils.js';
+
+try {
+    await document.documentElement.requestFullscreen();
+    await screen.orientation.lock('portrait');
+} catch { }
+
+
+const state = {
+    good: 0,
+    bad: 0,
+    streak: 0,
+    sign: undefined,
+    index: undefined
+}
+
 const resp = await fetch('./signs/db.json');
 const allData = await resp.json();
-
-
 const data = allData.filter(({ id }) => !!id);
-console.log(data.length);
 
-const randomArrIndex = () => Math.floor(Math.random() * data.length);
-const sortRandomize = () => Math.random() - 0.5;
+window.next.addEventListener('click', setSign);
 
-let validId;
-let counterAll = 0;
-let counterOK = 0;
-
-function disableResponses() {
-    document.querySelectorAll('.response').forEach(el => el.removeEventListener('click', validateChoice));
-
-}
-
-function updateCounter() {
-    window.counter.innerHTML = `${counterOK} / ${counterAll}`;
-}
+setSign();
 
 
 function setSign() {
     disableResponses();
-    counterAll++;
-    updateCounter();
 
-    const randomIndex = randomArrIndex();
-    const randomSign = data[randomIndex];
+    const responses = chooseSigns(data);
 
+    state.index = randomArrIndex(responses);
+    state.sign = responses[state.index];
 
-    const invalidAnswer1 = data[randomArrIndex()];
-    const invalidAnswer2 = data[randomArrIndex()];
-    const invalidAnswer3 = data[randomArrIndex()];
-
-    console.log(randomIndex);
-
-    validId = randomSign.id;
-
-    const responses = [randomSign, invalidAnswer1, invalidAnswer2, invalidAnswer3];
-    responses.sort(sortRandomize);
-
-    // const imageSvg = await(await fetch(randomSign.img)).text();
-
-    window.sign.src = randomSign.img;
+    window.sign.src = state.sign.img;
     window.responses.innerHTML = responses.map(({ id, label }) => `<div class="response" data-id="${id}">${label.replace(/(„|”)/gi, '')}</div>`).join('\n');
 
-    document.querySelectorAll('.response').forEach(el => el.addEventListener('click', validateChoice));
+    enableResponses();
 }
 
 function validateChoice(ev) {
     disableResponses();
     const id = ev.target.dataset.id;
 
-    if (id === validId) {
-        counterOK++;
+    if (id === state.sign.id) {
+        state.good++;
+        state.streak++;
     } else {
         ev.target.classList.add('red');
+        state.bad++;
+        state.streak = 0;
     }
 
-    document.querySelector(`.response[data-id="${validId}"]`).classList.add('green');
-
+    document.querySelector(`.response[data-id="${state.sign.id}"]`).classList.add('green');
     updateCounter();
 }
 
+function updateCounter() {
+    window.good.innerHTML = state.good;
+    window.bad.innerHTML = state.bad;
+    window.streak.innerHTML = state.streak;
+}
 
-window.next.addEventListener('click', setSign);
+function disableResponses() {
+    document.querySelectorAll('.response').forEach(el => el.removeEventListener('click', validateChoice));
+}
 
-setSign();
+function enableResponses() {
+    document.querySelectorAll('.response').forEach(el => el.addEventListener('click', validateChoice));
+}
